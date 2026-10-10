@@ -2,9 +2,9 @@ spring:
   application:
     name: equiprent
   datasourse:
-    url: jdbc:postgresql://localhost:5432/equipment
-    username: equipment
-    password: equipment
+    url: jdbc:postgresql://localhost:5432/equiprent
+    username: equiprent
+    password: equiprent
   jpa:
     hibernate:
     ddl-auto: update
