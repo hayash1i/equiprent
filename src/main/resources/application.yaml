@@ -4,7 +4,7 @@ spring:
   datasourse:
     url: jdbc:postgresql://localhost:5432/equipment
     username: equipmenpt
-    password^ equipment
+    password: equipment
   jpa:
     hibernate:
     ddl-auto: update
