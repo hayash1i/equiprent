@@ -3,7 +3,7 @@ spring:
     name: equiprent
   datasourse:
     url: jdbc:postgresql://localhost:5432/equipment
-    username: equipmenpt
+    username: equipment
     password: equipment
   jpa:
     hibernate:
